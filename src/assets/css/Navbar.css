@@ -1,0 +1,30 @@
+.navbar-container {
+  height: 70px;
+  background-color: black;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.274);
+}
+
+.navbar-content {
+  width: 60%;
+  margin: auto;
+}
+
+.navbar-links-container {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  height: 70px;
+  align-items: center;
+}
+
+.navbar-links-li {
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}

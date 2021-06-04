@@ -1,0 +1,56 @@
+.informacion-container {
+  width: 100%;
+  color: white;
+}
+
+.informacion-titulo {
+  width: 25%;
+  margin: 100px auto;
+  font-size: 42px;
+  text-align: center;
+  border-bottom: 2px solid white;
+  padding-bottom: 7px;
+}
+
+.informacion-content {
+  display: flex;
+  width: 75%;
+  margin: auto;
+}
+
+.informacion-left {
+  float: left;
+  margin-right: 90px;
+}
+
+.informacion-fotoperfil {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+
+  box-shadow: 0px 0px 10px white;
+}
+
+.informacion-right {
+  float: right;
+}
+
+.informacion-nombre {
+  font-size: 28px;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.fecha-nacimiento {
+  font-size: 20px;
+  margin-bottom: 50px;
+  text-align: right;
+  font-style: italic;
+}
+
+.informacion-texto {
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  text-align: justify;
+}
